@@ -35,7 +35,7 @@ No more than three sentences that summarize your project. Focus on the very most
 
 > Where did you find the data? Please include a link to the data source
 
-I found the data from Kaggle. The link is https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney.
+We found the data from Kaggle. The link is https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney.
 
 > Who collected the data?  
 
