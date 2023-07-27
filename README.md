@@ -39,7 +39,7 @@ I find the data from Kaggle. The link is https://www.kaggle.com/datasets/ruchi79
 
 > Who collected the data?  
 
-Ruchi Bhaia collected the data. She is a product marketing manager, data sicentist at HP Pittsburgh.
+Ruchi Bhaia collected the data. She is a product marketing manager, data scientist at HP Pittsburgh.
 
 > How was the data collected or generated?  
 
@@ -47,19 +47,19 @@ The data is scraped from different streaming platforms.
 
 > Why was the data collected?  
 
-The data is collected to show on which platform people can find their chosen movies. It is also to collected to explore the relationship between movies of different age groups and platforms that include these movies.
+The data is collected to show on which platform people can find their chosen movies. It is also collected to explore the relationship between movies of different age groups and platforms that include these movies.
 
 >How many observations (rows) are in your data?  
 
-My data includes 9515 observations。
+Our data includes 9515 observations。
 
 > How many features (columns) are in the data?  
 
-My data includes 11 attribtues
+Our data includes 11 attributes
 
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 
-The question of power relates to attributes of the dataset. First, the target age for a particular movie observation involves attitudes and power. The power source is hiden since we do not know who determine the target age for a particular movie. However, it does implies power to make different age groups see the "right" movie. Second, the data uses Rotten Tomatoes as a platform that gives marks to different movies. It implicitly treats Rotton Tomatoes as source of power.
+The question of power relates to attributes of the dataset. First, the target age for a particular movie observation involves attitudes and power. The power source is hidden since we do not know who determines the target age for a particular movie. However, it does implies power to make different age groups see the "right" movie. Second, the data uses Rotten Tomatoes as a platform that gives marks to different movies. It implicitly treats Rotton Tomatoes as source of power.
 
 > What are possible limitations or problems with this data?   (at least 200 words)
 
