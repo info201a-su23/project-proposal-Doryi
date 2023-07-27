@@ -33,14 +33,37 @@ No more than three sentences that summarize your project. Focus on the very most
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
+> Where did you find the data? Please include a link to the data source
+
+I find the data from Kaggle. The link is https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney.
+
 > Who collected the data?  
+
+Ruchi Bhaia collected the data. She is a product marketing manager, data sicentist at HP Pittsburgh.
+
 > How was the data collected or generated?  
+
+The data is scraped from different streaming platforms.
+
 > Why was the data collected?  
+
+The data is collected to show on which platform people can find their chosen movies. It is also to collected to explore the relationship between movies of different age groups and platforms that include these movies.
+
 >How many observations (rows) are in your data?  
+
+My data includes 9515 observations。
+
 > How many features (columns) are in the data?  
+
+My data includes 11 attribtues
+
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
+
+The question of power relates to attributes of the dataset. First, the target age for a particular movie observation involves attitudes and power. The power source is hiden since we do not know who determine the target age for a particular movie. However, it does implies power to make different age groups see the "right" movie. Second, the data uses Rotten Tomatoes as a platform that gives marks to different movies. It implicitly treats Rotton Tomatoes as source of power.
+
 > What are possible limitations or problems with this data?   (at least 200 words)
+
+The limitations of the data set are as follows: first, there are a lot of character type variables such as titles of movies, target age groups, and marks given by Rotten Tomatoes. It makes this dataset not very suitable for quantitative analysis. We need to apply some transformation and aggregation of data before analysis. For example, we can convert the string "94/100" into numeric 94 in the Rotten Tomatoes attribute; second, there are four dummy variables indicating the platform of a particular movie. It is okay if we focus on the analysis of specific movies, but it will require reshaping data if we need to look at the overall characteristics of each platform; third, the data set includes too few characteristics of platforms. It does not show the price range of streaming services. It does not have the user experience of different platforms. Moreover, I think the data set lacks categories of movies such as comedy, thriller, and so on. The categories of movies allow us to analyze which category of movies are popular on each platform. If we do not know the most popular movie category in each platform, we cannot compare strengths and weaknesses in terms of content between different platforms.
 
 4. Implications
 
