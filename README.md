@@ -59,7 +59,7 @@ Our data includes 11 attributes
 
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 
-The question of power relates to attributes of the dataset. First, the target age for a particular movie observation involves attitudes and power. The power source is hidden since we do not know who determines the target age for a particular movie. However, it does implies power to make different age groups see the "right" movie. Second, the data uses Rotten Tomatoes as a platform that gives marks to different movies. It implicitly treats Rotton Tomatoes as source of power.
+The question of power relates to attributes of the dataset. First, the target age for a particular movie observation involves attitudes and power. The power source is hidden since we do not know who determines the target age for a particular movie. However, it does imply the power to make different age groups see the "right" movie. Second, the data uses Rotten Tomatoes as a platform that gives marks to different movies. It implicitly treats Rotton Tomatoes as source of power.
 
 > What are possible limitations or problems with this data?   (at least 200 words)
 
