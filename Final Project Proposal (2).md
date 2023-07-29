@@ -1,25 +1,11 @@
-## Analyzing Various Streaming Platforms
+# **Final Project Proposal**
+## _By Nicholas Hong, Doryi Wang, Nikki Yuan, Rebecca Wang_
 
-### Authors
-Nicholas Hong: nhong1@uw.edu
-Doryi Wang: mwang311@uw.edu
-Nikki Yuan: yuan0709@uw.edu
-Rebecca Wang: lufanw@uw.edu
-
-### Date
-
-Winter 2023
 ### Abstract
-
 This project analyzes content offerings from Netflix, Hulu, Disney and Prime Video based on unique titles, age ratings, movie reviews, and release years. By doing so, customers can choose which service is best for them and platforms can play to their competitive advantages. 
 
 ### Keywords
-
 Streaming platforms, Content diversity, User satisfaction, Competitive advantage
-
-
-## Proposal:
-
 
 ### Introduction
 With the rise of streaming platforms, the entertainment and media access has undergone tremendous changes. Streaming platforms have completely changed how we access and enjoy content, allowing us to quickly see many movies, TV programs, documentaries, etc. With the intensification of competition, various streaming platforms aim to differentiate themselves via unique offerings.
@@ -75,4 +61,3 @@ Lee, C. Christopher; Nagpal, Pankaj; Ruane, Sinead G.; and Lim, Hyoun Sook (2018
 Loesberg, Sophie. “Data Analysis of Streaming Services & Movie Ratings.” Medium, 20 Apr. 2021, sophloes.medium.com/data-analysis-of-streaming-services-movie-ratings-5d8b7b1375c3
 
 Y. Zhou, X. Gu, D. Wu, M. Chen, T. H. Chan and S. W. Ho, "Statistical Study of View Preferences for Online Videos With Cross-Platform Information," in IEEE Transactions on Multimedia, vol. 20, no. 6, pp. 1512-1524, June 2018, doi: 10.1109/TMM.2017.2769807. ieeexplore.ieee.org/abstract/document/8094954/citations?tabFilter=papers#citations
-
