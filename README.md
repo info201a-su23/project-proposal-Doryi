@@ -36,9 +36,45 @@ While some users may prefer to watch the latest releases, others might want to w
 
 ### Related Work
 
+<<<<<<< HEAD
 The streaming platform has recently become an important component of popular entertainment, and people tend to use streaming media because of its convenience and wide range of content. Its commerciality and portability have gradually become a recent prevailing research topic. This project aims to analyze the difference in streaming platform information and its impact on user usage.
 
 “Data Analysis of Streaming Services & Movie Rating” holds a similar purpose and analyzes which platform had higher rated movies and compared the year of movies, and their goal is that “to determine which streaming service has a movie collection with the highest average IMDb rating and which years had the highest rated movies”(Loesberg). The result shows that until the article's publication date of April 19, 2021, Disney + has higher average IMDB rated movies while Amazon prime video streaming has a higher percentage of movies.
+=======
+> Where did you find the data? Please include a link to the data source
+
+We found the data from Kaggle. The link is https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney.
+
+> Who collected the data?  
+
+Ruchi Bhaia collected the data. She is a product marketing manager, data scientist at HP Pittsburgh.
+
+> How was the data collected or generated?  
+
+The data is scraped from different streaming platforms.
+
+> Why was the data collected?  
+
+The data is collected to show on which platform people can find their chosen movies. It is also collected to explore the relationship between movies of different age groups and platforms that include these movies.
+
+>How many observations (rows) are in your data?  
+
+Our data includes 9515 observations。
+
+> How many features (columns) are in the data?  
+
+Our data includes 11 attributes
+
+> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
+
+The question of power relates to attributes of the dataset. First, the target age for a particular movie observation involves attitudes and power. The power source is hidden since we do not know who determines the target age for a particular movie. However, it does imply the power to make different age groups see the "right" movie. Second, the data uses Rotten Tomatoes as a platform that gives marks to different movies. It implicitly treats Rotton Tomatoes as source of power.
+
+> What are possible limitations or problems with this data?   (at least 200 words)
+
+The limitations of the data set are as follows: first, there are a lot of character type variables such as titles of movies, target age groups, and marks given by Rotten Tomatoes. It makes this dataset not very suitable for quantitative analysis. We need to apply some transformation and aggregation of data before analysis. For example, we can convert the string "94/100" into numeric 94 in the Rotten Tomatoes attribute; second, there are four dummy variables indicating the platform of a particular movie. It is okay if we focus on the analysis of specific movies, but it will require reshaping data if we need to look at the overall characteristics of each platform; third, the data set includes too few characteristics of platforms. It does not show the price range of streaming services. It does not have the user experience of different platforms. Moreover, I think the data set lacks categories of movies such as comedy, thriller, and so on. The categories of movies allow us to analyze which category of movies are popular on each platform. If we do not know the most popular movie category in each platform, we cannot compare strengths and weaknesses in terms of content between different platforms.
+
+4. Implications
+>>>>>>> 5f4cdc1ed24a4cd16a186bdf9e99987f4e4b407c
 
 In the research “Factors Affecting Online Streaming Subscriptions” the researchers have used the regression model to analyze the co-relationship between different factors and the user choice of the streaming platform, and the study indicates that the "social trend (negative), cost and customer service factors were statistically significant"(Lee 2).
 
